@@ -1,7 +1,7 @@
 
 Release Notes for the MVPS HOSTS File (c) All Rights Reserved
-http://winhelp2002.mvps.org/hosts.htm
-http://winhelp2002.mvps.org/hosts.zip
+https://winhelp2002.mvps.org/hosts.htm
+https://winhelp2002.mvps.org/hosts.zip
 
 
 [Install Instructions for using the included Installer]
@@ -13,9 +13,7 @@ the updated version. The backed-up file will be renamed to HOSTS.MVP.
 To use: right-click mvps.bat and select: Run as Administrator (older Windows versions = double-click to run)
 
 Important: Different Windows versions requires special instructions:
-http://winhelp2002.mvps.org/hostswin8.htm (Windows 10/8)
-http://winhelp2002.mvps.org/hostswin7.htm (Windows 7)
-http://winhelp2002.mvps.org/hostsvista.htm (Vista)
+https://winhelp2002.mvps.org/hostswin8.htm (Windows 10/8)
 
 ***********************************************
 
@@ -36,7 +34,7 @@ Click the drop-down arrow for "Startup type"
 Select: Manual, click Apply/Ok and restart.
 
 For more details please see:
-http://winhelp2002.mvps.org/hosts.htm
+https://winhelp2002.mvps.org/hosts.htm
 
 ***********************************************
 
@@ -45,7 +43,7 @@ Always backup the existing file prior to replacing with a newer version.
 
 You can simply copy the included HOSTS file to the proper location.
 
-Windows 10/8/7/Vista/XP = C:\WINDOWS\SYSTEM32\DRIVERS\ETC  
+Windows 10/8 = C:\WINDOWS\SYSTEM32\DRIVERS\ETC  
 
 Note: the above locations are for the default paths (Windows folder location)
 
@@ -53,12 +51,12 @@ When prompted to overwrite select Yes
 For more detailed instructions please review the following:
 
 How To: Download and Extract the HOSTS file
-http://winhelp2002.mvps.org/hosts2.htm
+https://winhelp2002.mvps.org/hosts2.htm
 
 ********************************************
 
 [Removal Instructions]
-http://winhelp2002.mvps.org/uninstall.htm
+https://winhelp2002.mvps.org/uninstall.htm
 
 First time users - In the event you do not wish to continue using the MVPS HOSTS file, you can simply delete the existing HOSTS file and rename HOSTS.MVP to HOSTS (no 3-letter extension)
 
@@ -73,11 +71,11 @@ Click the drop-down arrow for "Startup type"
 Select: Automatic then click Apply/Ok and restart. 
 
 Regular users - You can simply delete the existing HOSTS file, then download the default Microsoft HOSTS file that shipped with your Windows version. [DefaultHosts.zip] Extract (unzip) and place the included HOSTS file in the default location.
-http://winhelp2002.mvps.org/DefaultHosts.zip
+https://winhelp2002.mvps.org/DefaultHosts.zip
 
 Note: the below locations are for the typical default paths (Windows folder location)
 
-Windows 10/8/7/Vista/XP = C:\WINDOWS\SYSTEM32\DRIVERS\ETC 
+Windows 10/8 = C:\WINDOWS\SYSTEM32\DRIVERS\ETC 
 
 Next - reset the DNS Client service (see above) that you should have disabled when installing the MVPS HOSTS file.
 
@@ -132,10 +130,10 @@ You can send an email to: winhelp2002@gmail.com
 
 Please provide a detailed explaination of your request. For general questions the majority of these
 can be addressed by reviewing the MVPS HOSTS - Frequently Asked Questions
-http://winhelp2002.mvps.org/hostsfaq.htm
+https://winhelp2002.mvps.org/hostsfaq.htm
 
 If you find the MVPS HOSTS file useful ... please consider a donation ...
-http://winhelp2002.mvps.org/hosts.htm#donation
+https://winhelp2002.mvps.org/hosts.htm#donation
 
 
 

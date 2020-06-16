@@ -1,8 +1,8 @@
 
  
 Privacy Policy Release Notes for the MVPS HOSTS File (c) All Rights Reserved
-http://winhelp2002.mvps.org/privacy.htm
-http://winhelp2002.mvps.org/hosts.htm
+https://winhelp2002.mvps.org/privacy.htm
+https://winhelp2002.mvps.org/hosts.htm
 
 This Privacy Policy describes the information that is collected and how that information is used.
 

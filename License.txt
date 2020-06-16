@@ -1,7 +1,7 @@
 
 License Release Notes for the MVPS HOSTs File (c) All Rights Reserved
-http://winhelp2002.mvps.org/hosts.htm
-http://winhelp2002.mvps.org/hosts.zip
+https://winhelp2002.mvps.org/hosts.htm
+https://winhelp2002.mvps.org/hosts.zip
 
 
 
